@@ -6,11 +6,5 @@
   "main": "index.js",
   "scripts": [
     "index.js"
-  ],
-  "templates": [
-    "template.html"
-  ],
-  "styles": [
-    "app.css"
   ]
 }
