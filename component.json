@@ -3,8 +3,8 @@
   "description": "streams library",
   "dependencies": {},
   "development": {},
-  "main": "index.js",
+  "main": "dist/highland.js",
   "scripts": [
-    "index.js"
+    "dist/highland.js"
   ]
 }
